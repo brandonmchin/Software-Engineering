@@ -17,7 +17,7 @@ The application runs on a local server and is implemented in HTML, CSS, PHP, and
 - Search for a specific book(s) by title, author, genre, etc.
 
 ### Registered User
-- Sign up with an account to become a register user
+- Sign up with an account to become a registered user
 - Buy/bid on a particular book
 - Rate books or book sellers
 - File complaints about books or book sellers
