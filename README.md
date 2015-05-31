@@ -15,14 +15,17 @@ The application runs on a local server and is implemented in HTML, CSS, PHP, and
 ### Non-Registered User
 - Browse through all of the site's active books
 - Search for a specific book(s) by title, author, genre, etc.
+
 ### Registered User
 - Sign up with an account to become a register user
 - Buy/bid on a particular book
 - Rate books or book sellers
 - File complaints about books or book sellers
+
 ### Book Seller
 - Apply to become a book seller (must wait for permission by super user)
 - Place a book up for sale
+
 ### Super User
 - Manage the site's book collection or accounts
 - Suspend a book or user
